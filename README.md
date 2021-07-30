@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Khoa Nguyen, Software Developer. 
+I'm Khoa Nguyen, Software Developer. I specialize in React.js, Redux.js and Ruby on Rails. 
+- 🔭 I’m currently working on Tiamat, a turn-based, team-building RPG having the players battle through waves of enemies to reach the evil dragon, Tiamat.
+- 🌱 I’m currently learning Japanese. 
 <!--
 **khoa0101/khoa0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
