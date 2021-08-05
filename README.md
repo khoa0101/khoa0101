@@ -4,11 +4,9 @@ I love making new and exciting games and websites. I enjoy mastering languages (
 
 Skills: REACT / REDUX / JS / HTML / CSS / Ruby / M.E.R.N. / PostgreSQL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khoa0101.github.io/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoa0101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=khoa0101)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoa0101)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khoa0101&show_icons=true)  
 <!-- 
