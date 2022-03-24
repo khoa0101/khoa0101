@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Khoa Nguyen
+### Hi there 👋, my name is Dexter Nguyen
 #### I am a Software Developer
 I love making new and exciting games and websites. I enjoy mastering languages (coding and human languages) and technologies. I also love design and visual arts. I play and mod games during my free time.
 
